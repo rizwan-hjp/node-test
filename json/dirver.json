@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Samsung USB Driver",
+        "url": "https://downloadcenter.samsung.com/content/SW/Odin/Samsung_USB_Driver_for_Windows_v1.7.21.0.zip",
+        "version": "1.7.21.0"
+    },
+    {
+        "name": "Qualcomm USB Driver",
+        "url": "https://download2265.mediafire.com/s0jl9j5ht4rgig-0kQJActIYBu3KZzcuXa_MorXMDZCoeRFraIcPjZnqS3OgTNeT1gAWIQtMbET5E7EwUWslx5IpAQl3TNahOcdbG7HTJdzyhguMomOPo0P3TlBdyNpTr8Hed-eKwovMpLBz3eaW3-jgnXJKdS39AV--bryi_7UWUk_3Dw/us1ffpw4i86j3v1/Qualcomm_QDLoader_HS-USB_Driver_Setup.rar",
+        "version": "null"
+    },
+    {
+        "name": "",
+        "url": "https://download2389.mediafire.com/iyb6cwiefnpgg-mOFUg1UHlHXShohn6mRdUfui9dG7LcfpuZyfI-7Sy1FVYVyXw2RJhktfTh-JgyQQUtzAAC6MGOUtX5SVTpO4NosF_CI6x5LaUNJEWCNZ0CpAMFxZrt4ZXUku6PTAb7EWg-F1YRIwvkZ8sbFayUVUZWeWw2PkSjhgHS4g/qqpvuqumfi67cie/MTK_driver.exe",
+        "version": "null"
+    },
+    {
+        "name": "spd",
+        "url": "https://download2279.mediafire.com/vmai9412g1pgKu4AUvbG8c-zPRCHN5Ya2F3KvRw2ZEu-5uaHn2-R7Mv1IEppzhLbCyfX_WwWTCGkTBL2n9kznTODkGqNb7G8gtiTU0S-0l7Gbfsg2fu0ulCzTmK00jSQOv6SFaQ9L42AMVTUue6c7FzUpk3sj5qnil0Y0p3fvKvmLTEz6g/xdfc5lrbsibzglg/SPD_Driver_R4.20.0201.rar",
+        "version": "R4.20.0201"
+    },
+    {
+        "name": "lib usb",
+        "url": "https://download2276.mediafire.com/6xgpid4wf2ughVsekFf4QrXI_SyAPzeoSDckwTdJtkQ0uxKg532yWVGenAmvxxyQZDNKTgz7cAhTBhK8kmwuzHUbZAjqiWBoP41WA5LKAY27lcFVYT0Q39JzjRQFu6POcbWfHQbXq1t4QEExoa0-RsR9W6If4k3XKr13OJ8svzwjy06Tpg/8l4vxgg7w8ehunq/libusb-win32-devel-filter-1.2.6.0.exe",
+        "version": "1.2.6.0_win32"
+    },
+    {
+        "name": "usbDk",
+        "url": "https://download2340.mediafire.com/flu8lpm14nigK2qL1EF5cu9UxBoc4i4Peiu24Gphyg1vm4IJTr0iw0R6XdPm5-8X3TLdeU4EUZYV-6q56yJ6D0LqEyrjFGXJxh-ikte7pVmryx1rmaTAr3gP1flJ_QlgwggZsK8dD025JRYlXa0TVGeeWwVCu0uXHu21rq7d5dTG-w_JOg/qpfyzpswuhju0hj/UsbDk_1.0.22_x64.msi",
+        "version": "1.0.22_x64"
+    },
+    {
+        "name": "hisilicon kirin CPU",
+        "url": "https://download2392.mediafire.com/3fcvkamh2vkgVOCeJ4LrJJ_2QJP8gVw2FU_cW_YbxmBZG8xkLG4rySGfue98NfNkCDB_dGQ3MMOkfOj1FmmUiP2nbnTROPicfHDEIALEF1dAP6YPUW2ik034ByZRVgPRIy6qtMdBtiXyeJdf0iXv-5JzghNY8Ybuw9jmFGaxvrJIW_karw/dr0fqv02suy3eiq/HUAWEI_USB_COM_1.0_driver.zip",
+        "version": "1.0"
+    }
+]

@@ -1,13 +1,15 @@
 [
     {
-        "name": "Samsung USB Driver ⛳",
+        "name": "Samsung USB Driver",
         "url": "https://www.progeeksblog.com/SAMSUNG_USB_Driver_for_Mobile_Phones.exe",
-        "version": "1.7.21.0"
+        "version": "1.7.21.0",
+        "size": "15.3 MB"
     },
     {
         "name": "Qualcomm USB Driver",
-        "url": "https://download2265.mediafire.com/s0jl9j5ht4rgig-0kQJActIYBu3KZzcuXa_MorXMDZCoeRFraIcPjZnqS3OgTNeT1gAWIQtMbET5E7EwUWslx5IpAQl3TNahOcdbG7HTJdzyhguMomOPo0P3TlBdyNpTr8Hed-eKwovMpLBz3eaW3-jgnXJKdS39AV--bryi_7UWUk_3Dw/us1ffpw4i86j3v1/Qualcomm_QDLoader_HS-USB_Driver_Setup.rar",
-        "version": "null"
+        "url": "https://mtkusballdriver.com/wp-content/uploads/MTK_USB_All_v1.0.8.zip",
+        "version": "1.0",
+        "size": "19.5 MB"
     },
     {
         "name": "Mediatek",
@@ -16,9 +18,16 @@
         "size": "55.26 MB"
     },
     {
-        "name": "SPD CPU",
-        "url": "https://download2279.mediafire.com/vmai9412g1pgKu4AUvbG8c-zPRCHN5Ya2F3KvRw2ZEu-5uaHn2-R7Mv1IEppzhLbCyfX_WwWTCGkTBL2n9kznTODkGqNb7G8gtiTU0S-0l7Gbfsg2fu0ulCzTmK00jSQOv6SFaQ9L42AMVTUue6c7FzUpk3sj5qnil0Y0p3fvKvmLTEz6g/xdfc5lrbsibzglg/SPD_Driver_R4.20.0201.rar",
-        "version": "R4.20.0201"
+        "name": "SPD CPU - For Smartphone and Tablets",
+        "url": "https://androiddatahost.com/wp-content/uploads/SPRD_NPI_USB_Driver_v1.4.zip",
+        "version": "1.4",
+        "size": "9.21 MB"
+    },
+    {
+        "name": "SPD CPU - For Feature Phone",
+        "url": "https://androiddatahost.com/wp-content/uploads/Spreadtrum_SCI_USB2Serial.zip",
+        "version": "--",
+        "size": "2.68 MB"
     },
     {
         "name": "Lib Usb",

@@ -42,7 +42,7 @@
     },
     {
         "creating-a-user-account:": "When creating an account on Repair Tool, we encourage the following practices to enhance your security:",
-        "point": [
+        "point": 
             {
                 "0": "Use a valid email address for your account. Please ensure that the email address you provide is accurate and can receive communications from our platform.",
                 "1": "Use a new and unique password specifically for your Repair Tool account. We strongly recommend that you do not use your email password or the same password you use for other services.",
@@ -51,7 +51,7 @@
                 "4": "Regularly update your password for added security. We recommend changing your password periodically.",
                 "5": "By following these practices, you can help protect your account and your privacy while using our platform."
             }
-        ]
+        
     },
     {
         "email-verification": "At Repair Tool, we place great importance on email verification to enhance security and user accountability. The email verification process is designed to:",

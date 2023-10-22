@@ -9,14 +9,14 @@ const path = require("path");
 const unzip = require("unzip-stream");
 const yargs= require("yargs")
 
-const { handleAuthRotation }= require("./utils/authUtils")
+const { handleAuthRotation }= require("./samsung fw/utils/authUtils")
 const {
   getBinaryInformMsg,
   getBinaryInitMsg,
   getDecryptionKey
-} = require("./utils/msgUtils")
+} = require("./samsung fw/utils/msgUtils")
 
-const { version: packageVersion } = require("../package.json")
+const { version: packageVersion } = require("./package.json")
 
 const getLatestVersion = async (region, model) => {
   return axios

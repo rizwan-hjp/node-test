@@ -1,0 +1,74 @@
+[
+    {
+        "Terms-of-Service-for": "These Terms of Service ('Terms') govern your use of the Repair Tool mobile application (the 'App'). By using the App, you agree to be bound by these Terms. Please read them carefully."
+    },
+    {
+        "age-requirement": "You must be at least 21 years of age to use this App. By using the App, you represent and warrant that you are 21 years of age or older."
+    },
+    {
+        "platform-description": "Repair Tool is a platform that allows users to connect with each other to discuss mobile device repair issues, seek advice, and offer solutions. The App is designed to facilitate collaboration and information sharing among users."
+    },
+    {
+        "user-responsibility": "Users of the App are responsible for their own actions and contributions to the platform. You must use the App responsibly and comply with all applicable laws and regulations."
+    },
+    {
+        "user_content": "Any content, including text, images, or other materials, that you post, upload, or share on the App is your responsibility. You agree not to post any content that is illegal, harmful, abusive, or in violation of these Terms."
+    },
+    {
+        "intellectual-property": "All content and materials on the App, including but not limited to text, images, logos, and trademarks, are the property of [Your Company Name] or its licensors. You may not use, reproduce, or distribute any of the App's content without permission."
+    },
+    {
+        "termination": "Repair Tool reserves the right to terminate or suspend your access to the App at any time for violations of these Terms or for any other reason."
+    },
+    {
+        "privacy": "Your use of the App is also governed by our Privacy Policy, which outlines how we collect, use, and protect your personal information."
+    },
+    {
+        "changes-to-the-terms": "Repair Tool may update these Terms at any time, and we will notify users of any changes. Your continued use of the App after such notice constitutes acceptance of the updated Terms."
+    },
+    {
+        "contact-information": "If you have any questions or concerns about these Terms or the App, you can contact us at "
+    },
+    {
+        "user-information": "In Repair Tool, we prioritize your privacy and security. We want to assure you that",
+        "point": [
+            {
+                "0": "We do not collect, store, or require your personal information or banking details within the App.",
+                "1": "You are not obligated to provide personal identification or financial information to use the platform.",
+                "2": "We strongly discourage sharing sensitive personal or financial information with other users on the App. We recommend exercising caution and not disclosing such information to protect your own privacy and security."
+            }
+        ]
+    },
+    {
+        "data-Security": "While we do not collect personal or financial information, we take data security seriously. Our data protection practices are designed to safeguard any data that is generated or shared within the platform. For more details on how we protect your data, please refer to our Privacy Policy."
+    },
+    {
+        "creating-a-user-account:": "When creating an account on Repair Tool, we encourage the following practices to enhance your security:",
+        "point": [
+            {
+                "0": "Use a valid email address for your account. Please ensure that the email address you provide is accurate and can receive communications from our platform.",
+                "1": "Use a new and unique password specifically for your Repair Tool account. We strongly recommend that you do not use your email password or the same password you use for other services.",
+                "2": "Your Repair Tool password should be kept confidential. Do not share your password with others. You are responsible for maintaining the security of your account.",
+                "3": "It is important to create a strong password that includes a combination of letters, numbers, and symbols to help protect your account.",
+                "4": "Regularly update your password for added security. We recommend changing your password periodically.",
+                "5": "By following these practices, you can help protect your account and your privacy while using our platform."
+            }
+        ]
+    },
+    {
+        "email-verification": "At Repair Tool, we place great importance on email verification to enhance security and user accountability. The email verification process is designed to:",
+        "point": [
+            {
+                "0": "Confirm the validity of the email address you provide during registration.",
+                "1": "Enhance the security of your account and protect it from unauthorized access.",
+                "2": "Allow us to communicate important information, updates, and notifications related to the platform.",
+            }
+        ]
+    },
+    {
+        "unverified-accounts": "User accounts that remain unverified after a reasonable period may be marked as 'Unverified' or 'Inactive.' Inactive accounts may have restricted access to certain features of the platform until email verification is completed."
+    },
+    {
+        "verification-process": "To verify your account, you will receive an email with a verification link shortly after registration. Click on the verification link to confirm your email address. If you do not receive this email, please check your spam folder or contact our support team for assistance."
+    }
+]

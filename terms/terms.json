@@ -31,13 +31,11 @@
     },
     {
         "user-information": "In Repair Tool, we prioritize your privacy and security. We want to assure you that",
-        "point": [
-            {
-                "0": "We do not collect, store, or require your personal information or banking details within the App.",
-                "1": "You are not obligated to provide personal identification or financial information to use the platform.",
-                "2": "We strongly discourage sharing sensitive personal or financial information with other users on the App. We recommend exercising caution and not disclosing such information to protect your own privacy and security."
-            }
-        ]
+        "point": {
+            "0": "We do not collect, store, or require your personal information or banking details within the App.",
+            "1": "You are not obligated to provide personal identification or financial information to use the platform.",
+            "2": "We strongly discourage sharing sensitive personal or financial information with other users on the App. We recommend exercising caution and not disclosing such information to protect your own privacy and security."
+        }
     },
     {
         "data-Security": "While we do not collect personal or financial information, we take data security seriously. Our data protection practices are designed to safeguard any data that is generated or shared within the platform. For more details on how we protect your data, please refer to our Privacy Policy."
@@ -57,13 +55,11 @@
     },
     {
         "email-verification": "At Repair Tool, we place great importance on email verification to enhance security and user accountability. The email verification process is designed to:",
-        "point": [
-            {
-                "0": "Confirm the validity of the email address you provide during registration.",
-                "1": "Enhance the security of your account and protect it from unauthorized access.",
-                "2": "Allow us to communicate important, information, updates, and notifications related to the platform."
-            }
-        ]
+        "point": {
+            "0": "Confirm the validity of the email address you provide during registration.",
+            "1": "Enhance the security of your account and protect it from unauthorized access.",
+            "2": "Allow us to communicate important, information, updates, and notifications related to the platform."
+        }
     },
     {
         "unverified-accounts": "User accounts that remain unverified after a reasonable period may be marked as 'Unverified' or 'Inactive.' Inactive accounts may have restricted access to certain features of the platform until email verification is completed."
